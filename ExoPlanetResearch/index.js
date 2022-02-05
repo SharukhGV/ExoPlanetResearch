@@ -7,7 +7,7 @@
 
 
 
-//The THREE LINES OF CODE BELOW IS CALLED UPON THROUGH THE REQUIRE FUNCTION 
+//The THREE LINES OF CODE BELOW IS CALLED UPON THROUGH THE REQUIRE variable 
 //TO ALLOW US TO GATHER EXTRA RESOURCES TO MAKE OUR TASK AT HAND EASIER
 
 const {parse} = require ('csv-parse'); // required to make reading the csv file easier
